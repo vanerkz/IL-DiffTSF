@@ -49,9 +49,12 @@ If you use IL-DiffTSF in your research, please cite:
   doi={10.1109/JIOT.2025.3636872},
   keywords={Probabilistic logic; Diffusion processes; Predictive models; Time-domain analysis; Time series analysis; Internet of Things; Training; Diffusion models; Accuracy; Limiting; Time series forecasting; latent diffusion model; invertible latent diffusion}
 }
+```
+## Acknowledgement
+We sincerely thank the authors of Informer for their open-source implementation (Informer2020) on GitHub, which provided a valuable reference for our work in long-sequence time series forecasting. ([github.com](https://github.com/zhouhaoyi/Informer2020))
 
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vanerkz.visitor-badge)
 
 
 
