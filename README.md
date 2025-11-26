@@ -14,7 +14,7 @@ To train and evaluate **IL-DiffTSF**, simply run the provided Jupyter notebook.
 cd IL-DiffTSF
 jupyter notebook run_IL_DiffTSF.ipynb
 ```
-Inside the notebook, you can select the dataset by modifying the `value` variable (e.g., `"ETTh1"`, `"ETTm2"`, `"weather"`, `"exchange"`, etc.).
+Inside the notebook, you can select the dataset by modifying the `--value` variable (e.g., `"ETTh1"`, `"ETTm2"`, `"weather"`, `"exchange"`, etc.).
 
 You can also control the forecasting type via the `--features` argument:
 
