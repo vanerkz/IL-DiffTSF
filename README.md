@@ -23,7 +23,6 @@ You can also control the forecasting type via the `--features` argument:
 
 Other important arguments you may want to adjust for your experiments:
 
-In addition to dataset and sequence parameters, IL-DiffTSF provides several configurable model and diffusion options:
 * `--label_len` – length of the input (historical) sequence fed to the model
 * `--pred_len` – length of the prediction (future) sequence
 * `--batch_size` – number of samples per batch for training
