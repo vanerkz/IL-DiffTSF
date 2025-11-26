@@ -1,4 +1,6 @@
-# IL-DiffTSF: Invertible Latent Diffusion for Probabilistic Time Series Forecasting
+# IL-DiffTSF: Invertible Latent Diffusion for Probabilistic Time Series Forecasting 
+This implementation is based on the paper:
+V. K. Z. Koh, S. Lin, Y. Li, Z. Lin, and B. Wen, *"IL-DiffTSF: Invertible Latent Diffusion for Probabilistic Time Series Forecasting,"* IEEE Internet of Things Journal, 2025. DOI: [10.1109/JIOT.2025.3636872](https://doi.org/10.1109/JIOT.2025.3636872).
 
 ## Overview
 
@@ -47,7 +49,17 @@ If you use IL-DiffTSF in your research, please cite:
   doi={10.1109/JIOT.2025.3636872},
   keywords={Probabilistic logic; Diffusion processes; Predictive models; Time-domain analysis; Time series analysis; Internet of Things; Training; Diffusion models; Accuracy; Limiting; Time series forecasting; latent diffusion model; invertible latent diffusion}
 }
-```
 
----
+
+
+
+
+
+
+
+
+
+
+
+
 
